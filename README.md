@@ -1,5 +1,4 @@
-# Multi-Agent-Negotiation-for-Emergency-Resource-Reallocation-
-werrtt
+
 # 🏥 NEXUS
 ### Real-Time Multi-Agent AI Coordination for Hospital Emergencies
 
